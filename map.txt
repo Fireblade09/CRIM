@@ -1,0 +1,10 @@
+	FallenKnightRoom	CaveRoom	CoinRoom			
+DragonRoom	AbandonAllHopeRoom		CaveRoom		SphinxRoom				
+	HallRoom		RandomRoom	UndeadRoom	HallRoom			
+	CoinRoom		SkeletonRoom					
+	GoingWrongWayRoom	TreasureRoom	SpawnRoom					
+	DoNotGoSouthRoom		RatRoom	CoinRoom				
+	SeriouslyNoSouthRoom			HallRoom	CoinRoom	VendorRoom		
+	DeathRoom				HallRoom			
+	BigCoinRoom		WizardRoom	CoinRoom	HallRoom	FireShieldRoom
+					DwarfRoom	GoblinRoom
